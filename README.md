@@ -21,6 +21,9 @@ Kubernetes.
 |GOST_DB_USER|
 |GOST_DB_PASSWORD|
 
+This is a minimum, see 
+the [GOST Configuration](https://github.com/gost/docs/blob/master/gost_configuration.md).
+
 ## Architecture
 
 The image includes the official Geodan GOST Server Docker Image overlayed with
